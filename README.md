@@ -2,8 +2,7 @@
 생활코딩 WEB1 - html 실습
 기간: 2021. 12. 26. ~ 12. 27.
 <br><br>
-💜 site
-https://devjenny.github.io/html_practice/
+💜 site: https://devjenny.github.io/html_practice
 <br><br><br>
 ## capture
 
