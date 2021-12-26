@@ -1,15 +1,16 @@
 # HTML practice
 <p>생활코딩 WEB1 - html 실습</p>
 <p>기간: 2021. 12. 26. ~ 12. 27.</p>
-<br><br>
-💜 site: https://devjenny.github.io/html_practice
-<br><br><br>
-## capture
+<br>
+<p>💜 site: https://devjenny.github.io/html_practice </p>
+<br>
 
+## capture
+<br>
 <p>🌹 index.html</p>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdkAlat%2Fbtro12GcZJX%2FR5V8IqtYXO9ZsWU3EdL1R1%2Fimg.png">
 <br>
-<p>🌹1.html</p>
+<p>🌹 1.html</p>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FC9qoZ%2FbtroSKNQkGj%2FVnBvYEI5mfSJsZK10arPLk%2Fimg.png">
 <br>
 <p>🌹 2.html</p>
