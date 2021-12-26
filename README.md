@@ -1,6 +1,6 @@
 # HTML practice
-생활코딩 WEB1 - html 실습
-기간: 2021. 12. 26. ~ 12. 27.
+<p>생활코딩 WEB1 - html 실습</p?
+<p>기간: 2021. 12. 26. ~ 12. 27.</p>
 <br><br>
 💜 site: https://devjenny.github.io/html_practice
 <br><br><br>
